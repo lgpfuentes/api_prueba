@@ -19,7 +19,8 @@ class LibroCollection extends ResourceCollection
                 'editorial' => 'Editorial Elektron',
                 'Autor'     => [
                     'Pérez Fuentes',
-                    'Luis Guillermo'
+                    'Luis Guillermo',
+                    'lperez@elektron.com.mx'
                 ]
                 ],
                 'type' => 'Libros'
